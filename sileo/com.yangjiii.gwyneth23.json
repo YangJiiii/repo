@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Replace the '?' in package icon/thumbnails</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Font Clock AIM</p>",
           "useRawFormat": true
         },
         {
@@ -38,17 +38,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Evelyn (ev_ynw)",
+          "text": "YangJiii",
           "title": "Author"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.2-1",
+          "text": "1.2-3",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS8.0 - 15.0",
+          "text": "N/A",
           "title": "Compatibility"
         },
         {
@@ -68,9 +68,9 @@
           "spacing": 16
         },
         {
-          "action": "https://twitter.com/ev_ynw",
+          "action": "https://twitter.com/duongduong0908",
           "class": "DepictionTableButtonView",
-          "title": "Find me on Twitter (@ev_ynw)",
+          "title": "Find me on Twitter (@duongduong0908)",
           "openExternal": true
         },
         {
@@ -79,16 +79,16 @@
           "title": "Send me an email"
         },
         {
-          "action": "https://paypal.me/evynw",
+          "action": "https://paypal.me/yangjiii",
           "class": "DepictionTableButtonView",
-          "title": "Buy me a 🍺 via PayPal"
+          "title": "Send me a 🍺 via PayPal"
         },
         {
           "class": "DepictionSpacerView",
           "spacing": 40
         },
         {
-          "URL": "https://evynw.github.io/CydiaIcon.png",
+          "URL": "https://yangjiii.github.io/repo/CydiaIcon.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
@@ -108,48 +108,15 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.2-1",
+          "title": "1.2-3",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Fixed icon naming for Music Artwork Themes</li>\n</ul>",
+          "markdown": "<ul>\n<li></li>\n</ul>",
           "useRawFormat": true
         },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.2",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added new sections for Settings Icons & Themes</li>\n</ul>",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Divided fonts into (iOS10-12) and (iOS13)</li>\n</ul>",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.0",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Initial release</li>\n</ul>",
-          "useRawFormat": true
-        }
       ]
     }
   ],
