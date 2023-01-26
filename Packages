@@ -1,15 +1,15 @@
-Package: com.evynw.repoicons
+Package: com.yangjiii.gwyneth23
 Version: 1.2-3
 Architecture: iphoneos-arm
-Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Maintainer: YangJiii (duongduong0908) <duongduong12111998@gmail.com>
 Filename: ./debs/com.evynw.repoicons_1.2-3_iphoneos-arm.deb
-Size: 130532
-MD5sum: 367a7c5ab32057ca2967ef475a37f8c9
-SHA1: c5863a091b12ba209aa72ea29d66695fa531b7ea
-SHA256: 1041a28aa14b75c70ac07d31c08ba87ed246a362f3c9d6511cc0d791317ceba0
+Size: 15008
+MD5sum: 613b8c1849a75e5f250c27b359800682
+SHA1: 434c7282d2de32df03543d994bd314f0e9b28eb9
+SHA256: 3800feac86e316b16f8757826bf7639231ac84981fa823846fa80c98a973bc8f
 Section: System
-Description: Official Icons for EVELYN's Repo. Icons replacing the ? marks.
-Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.repoicons
-Name: EVELYN's Repo Icons
-Sileodepiction: https://evynw.github.io/sileo/repoicons.json
+Description: Font Clock AIM
+Author: YangJiii (duongduong0908)
+Depiction: https://yangjiiii.github.io/repo/depictions/?p=com.yangjiii.gwyneth23
+Name: AIM Gwyneth23
+Sileodepiction: https://yangjiiii.github.io/repo/sileo/com.yangjiii.gwyneth23.json

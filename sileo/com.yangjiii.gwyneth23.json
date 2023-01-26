@@ -1,12 +1,12 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://evynw.github.io/sileo/assets/header_LS.png",
+  "headerImage": "https://evynw.github.io/sileo/assets/header_fallback.png",
   "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "Details",
-      "tintColor": "#a2b9c9",
+      "tintColor": "#007aaa",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -16,32 +16,8 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Installed to /var/mobile/Library/LockHTML (for LS) and /SBHTML (for HS)</p>\n<p style=\"font-size:10pt;\">Apply with XenHTML</p>\n<p style=\"font-size:10pt;\">Requires XenInfo for weather/battery components to work properly</p>\n<p style=\"font-size:10pt;\"><strong>Need help?</strong> Link to tutorials in my pinned tweet</p>",
+          "markdown": "<p style=\"font-size:10pt;\">Replace the '?' in package icon/thumbnails</p>",
           "useRawFormat": true
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Screenshots",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 8,
-          "itemSize": "{330, 596.385543}",
-          "screenshots": [
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.evynw.lsew235/ss.png"
-            }
-          ]
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 16
         },
         {
           "class": "DepictionSeparatorView"
@@ -67,12 +43,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.2-1",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS9 - 12.1.2",
+          "text": "iOS8.0 - 15.0",
           "title": "Compatibility"
         },
         {
@@ -128,17 +104,39 @@
     {
       "class": "DepictionStackView",
       "tabname": "Changelog",
-      "tintColor": "#a2b9c9",
+      "tintColor": "#007aaa",
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.0-1",
+          "title": "1.2-1",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Fixed something</li>\n<li>Fixed another something</li>\n</ul>",
+          "markdown": "<ul>\n<li>Fixed icon naming for Music Artwork Themes</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.2",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Added new sections for Settings Icons & Themes</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Divided fonts into (iOS10-12) and (iOS13)</li>\n</ul>",
           "useRawFormat": true
         },
         {
@@ -155,5 +153,5 @@
       ]
     }
   ],
-  "tintColor": "#a2b9c9"
+  "tintColor": "#007aaa"
 }
