@@ -2,11 +2,11 @@ Package: com.yangjiii.gwyneth23
 Version: 1.2-3
 Architecture: iphoneos-arm
 Maintainer: YangJiii (duongduong0908) <duongduong12111998@gmail.com>
-Filename: ./debs/com.evynw.repoicons_1.2-3_iphoneos-arm.deb
+Filename: ./debs/com.yangjiii.gwyneth23_1.2-3_iphoneos-arm
 Size: 15008
-MD5sum: 613b8c1849a75e5f250c27b359800682
-SHA1: 434c7282d2de32df03543d994bd314f0e9b28eb9
-SHA256: 3800feac86e316b16f8757826bf7639231ac84981fa823846fa80c98a973bc8f
+MD5sum: bb5da9a0109442ba9e6a16ea997df044
+SHA1: 7575ba4fa03529d6eec1406e1c46f446e491d49a
+SHA256: 7575ba4fa03529d6eec1406e1c46f446e491d49a
 Section: System
 Description: Font Clock AIM
 Author: YangJiii (duongduong0908)
